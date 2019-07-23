@@ -10,7 +10,7 @@
     * [X] Listes
     * [X] Formatage de texte (italique, souligné, gras)
     * [X] Code
-    * [ ] Citations
+    * [X] Citations
     * [X] Tableaux
     * [X] Liens
   * [X] Faire le parcours "how-to-markdown" (Nodeschool.io)
@@ -18,5 +18,5 @@
 * [ ] Découverte des raccourcis clavier Linux : 
   * [ ] Navigateur (fenêtres, onglets, navigation, etc …)
   * [ ] Terminal (fenêtres, onglets, commandes)
-  * [ ] Découverte et installation de Albert (Linux) / Alfred (Mac)
-* [ ] Rédaction en Markdown du contenu du travail en groupe (wiki, repos)
+  * [X] Découverte et installation de Albert (Linux) / Alfred (Mac)
+* [X] Rédaction en Markdown du contenu du travail en groupe (wiki, repos)
