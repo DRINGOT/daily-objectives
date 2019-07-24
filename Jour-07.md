@@ -3,7 +3,7 @@
 ## Mercredi 24/07/2019
 
 
-* [X] Savoir se documenter (MDN)
+* [X] Savoir se documenter(MDN)
 * [X] Comprendre la différence entre Frontend et Backend
 * [X] Découverte de la sainte trinité du web (HTML, CSS et JS)
   * [X] Comprendre les différences et rôle de chacun
