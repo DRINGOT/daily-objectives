@@ -13,7 +13,7 @@
   * [ ] Savoir architecturer une page HTML basique
   * [ ] Comprendre le fonctionnement des attributs
   * [ ] Savoir commenter dans une page HTML
-  * [ ] Découvrir le principe de parents/enfants
+  * [X] Découvrir le principe de parents/enfants
   * [ ] Découvrir le HTML5 sémantique
 * [ ] Découvrir le maquettage fonctionnel (wireframe)
 * [ ] Comprendre la différence entre les liens relatifs et liens absolus
