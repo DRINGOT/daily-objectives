@@ -9,5 +9,5 @@
 * [X] Créer sa première clé SSH
 * [X] Créer son premier tunnel SSH avec Github
 * [X] Faire le wargame bandit jusqu'au niveau 5 
-* [ ] Planification de la livraison en groupe
-* [ ] Faire le cours "Comprendre le web" (Openclassrooms)
+* [X] Planification de la livraison en groupe
+* [X] Faire le cours "Comprendre le web" (Openclassrooms)
