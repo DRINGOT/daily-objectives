@@ -3,7 +3,7 @@
 ## Lundi 29/07/2019
 
 
-* [X] Décrouvrir le Javascript
+* [ ] Décrouvrir le Javascript
   * [X] Comprendre ce qu'est Javascript, ce qu'il peut, ce qu'il ne peut pas (http://javascript.info/intro)
   * [X] Découvrir la documentation officielle JavaScript (http://javascript.info/manuals-specifications) : 
     * [X] Comprendre ce qu'est la spécification `ECMA-262`
@@ -15,7 +15,7 @@
   * [X] Comprendre l'utilité des algorithmes
   * [X] Déterminer l'importance de l’étude des algorithmes
 
-* [ ] HTML :
+* [X] HTML :
   * [X] Comprendre le fonctionnement des tableaux en HTML5 et savoir les manipuler
   * [X] Comprendre le fonctionnement des inputs en HTML5 et savoir les manipuler
   * [X] Découvrir les formulaires et leur validation en HTML5
