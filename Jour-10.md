@@ -3,12 +3,12 @@
 ## Mercredi 31/07/2019
 
 
-* [ ] Javascript : 
-  * [ ] Comprendre le fonctionnement et l'utilité des variables (http://javascript.info/variables)
-    * [ ] Comprendre la différence entre `let`, `var` et `const`
+* [X] Javascript : 
+  * [X] Comprendre le fonctionnement et l'utilité des variables (http://javascript.info/variables)
+    * [X] Comprendre la différence entre `let`, `var` et `const`
 
-* [ ] Algo : 
-  * [ ] Découvrir le tri à bulles (Bubble Sort)
+* [X] Algo : 
+  * [X] Découvrir le tri à bulles (Bubble Sort)
 
 * [ ] CSS : 
   * [ ] Découvrir le positionnement en CSS
