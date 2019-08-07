@@ -10,7 +10,7 @@
 * [X] Algo : 
   * [X] Découvrir le tri à bulles (Bubble Sort)
 
-* [ ] CSS : 
+* [X] CSS : 
   * [X] Découvrir le positionnement en CSS
   * [X] Comprendre le fonctionnement et les différentes notation des couleurs en CSS
   * [X] Comprendre les différentes notations pour le sizing en CSS (%, px, em, rem)
